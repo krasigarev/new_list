@@ -37,3 +37,6 @@ print(new_5)
 
 new_6 = [x if x != "banana" else "orange" for x in fruits]
 print(new_6)
+
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[-4:-1])
